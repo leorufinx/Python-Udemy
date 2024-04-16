@@ -16,5 +16,3 @@ elif numero2 > numero1:
 elif numero1 == numero2:
     print('numeros iguais, não há diferença')
 
-else:
-    print('numero inválido')
