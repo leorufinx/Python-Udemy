@@ -1,8 +1,5 @@
-# escreva um programa que, dado dois números inteiros, mostre na tela o maior, assim como a diferença entre eles
-
 numero1 = int(input('digite um número: '))
 numero2 = int(input('digite outro número: '))
-
 
 
 if numero1 > numero2:

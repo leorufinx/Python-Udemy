@@ -1,7 +1,5 @@
-""" faça um programa que receba dois números e mostre qual deles é maior """
-
-numero1 = 21
-numero2 = 20
+numero1 = int(input('Digite um numero: '))
+numero2 = int(input('Digite um numero: '))
 
 if numero1 > numero2:
     print(numero1, "é maior que", numero2)

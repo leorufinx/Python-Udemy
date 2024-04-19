@@ -1,7 +1,5 @@
-"""faça um programa que leia um número e, caso ele seja positivo, calcule e mostre: *o número digitado ao quadrado e a raiz do número digitado"""
-
 import math
-numero = 145
+numero = int(input('Digite um numero: '))
 
 if numero > 0: 
     res1 = numero * numero

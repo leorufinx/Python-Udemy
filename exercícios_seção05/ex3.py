@@ -1,7 +1,5 @@
-""" leia um numero real. se for positivo, imprima a raiz quadrada. do contrário imprima o número ao quadrado """
-
 import math
-numero = -10
+numero = int(input('Digite um numero: '))
 
 if numero > 0:
    res1 = math.sqrt(numero)

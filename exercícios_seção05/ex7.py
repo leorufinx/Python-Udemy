@@ -1,5 +1,3 @@
-# faça um programa que receba dois números e mostre o maior. se por acaso, os dois numeros forem iguais, imprima a mensagem 'numeros iguais'
-
 numero1 = int(input('digite um numero: '))
 numero2 = int(input('digite outro numero: '))
 
