@@ -11,7 +11,7 @@ else:
         print('Venda o carro!')
     
     elif kmPorLitro >= 8 and kmPorLitro <= 14:
-        print('ec0nômico')
+        print('econômico')
     
     else:
         print('super econômico')
