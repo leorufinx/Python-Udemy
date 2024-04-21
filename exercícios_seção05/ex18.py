@@ -46,3 +46,6 @@ elif opr == '%':
     n2_div = float(input('digite o segundo número: '))
     res_div = n1_div/n2_div
     print('o resultado da divisão é:',res_div)
+
+else:
+    print('digite uma operação válida!')
