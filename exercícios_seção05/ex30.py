@@ -22,14 +22,13 @@ else:
 
 
 """ 
-    forma mais simples de fazer: 
+             forma mais simples de fazer: 
 
     num1 = int(input("Digite o primeiro número: "))
     num2 = int(input("Digite o segundo número: "))
     num3 = int(input("Digite o terceiro número: "))
 
     sorted_nums = sorted([num1, num2, num3])
-
     print("Números em ordem crescente:", sorted_nums) 
     
 """
